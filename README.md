@@ -6,9 +6,7 @@ ER diagram/Diagramma ER relativo al progetto: ER diagram
 
 Project developement with code/Sviluppo del progetto con codici: Progetto Orti.pdf
 
-
-
-
+### Summary of the project:
 
 I was responsible for designing and implementing a database from scratch based on user requirements. This involved every step of the database development lifecycle:
 
